@@ -1,0 +1,6 @@
+{
+  "name": "QUOTEVERSE – AI Quote Generator",
+  "description": "Intelligent philosophical quote generator creating original, thought-provoking quotes inspired by 31 iconic philosophers using Google Gemma 4.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
